@@ -5,7 +5,7 @@ let bullets = document.querySelector(".bullets");
 let quizArea = document.querySelector(".quiz-area");
 let ansersArea = document.querySelector(".answers-area");
 let submitButton = document.querySelector(".submit-button");
-let resultsContainer = document.querySelector(".results");
+let resultsContainer = document.querySelector(".results"); 
 let countDownElement = document.querySelector(".countdown")
 
 // Set Options
